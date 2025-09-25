@@ -781,16 +781,16 @@ h3.my-self
     }
 }
 .history ul {
-    margin: 10px 0 20px 20px; /* spacing */
-    padding-left: 20px;       /* indentation */
-    list-style-type: disc;    /* default bullet style */
-    font-size: 16px;          /* bullet text size */
-    line-height: 1.6;         /* spacing between lines */
+    margin: 15px 0 20px 40px; /* space & indentation */
+    list-style-type: disc;    /* default bullet */
+    font-size: 16px;          /* text size */
+    line-height: 1.6;         /* line spacing */
 }
 
 .history li {
-    margin-bottom: 8px;       /* space between bullets */
+    margin-bottom: 10px;      /* space between bullet points */
 }
+
 
 .history p {
     font-size: 17px;          /* adjust main paragraph text */
