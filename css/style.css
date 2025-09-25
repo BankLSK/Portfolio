@@ -780,3 +780,19 @@ h3.my-self
         max-width: 100%;
     }
 }
+.history ul {
+    margin: 10px 0 20px 20px; /* spacing */
+    padding-left: 20px;       /* indentation */
+    list-style-type: disc;    /* default bullet style */
+    font-size: 16px;          /* bullet text size */
+    line-height: 1.6;         /* spacing between lines */
+}
+
+.history li {
+    margin-bottom: 8px;       /* space between bullets */
+}
+
+.history p {
+    font-size: 17px;          /* adjust main paragraph text */
+    line-height: 1.6;
+}
